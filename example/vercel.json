@@ -1,5 +1,6 @@
 {
   "name": "comment",
+  "installCommand": "pnpm install --dangerously-allow-all-builds",
   "github": {
     "silent": true
   },
